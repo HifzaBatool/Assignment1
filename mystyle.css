@@ -1,0 +1,20 @@
+
+
+img{
+    max-width:20%;
+}
+.icon{
+    max-width: 5%;
+    max-height: 5%;
+    
+}
+.logo{
+    max-width: 6.5%;
+    max-width: 6.5%;
+}
+footer{
+    background-color:grey;
+text-align: center;
+width: 60%;
+position:fixed;
+}
